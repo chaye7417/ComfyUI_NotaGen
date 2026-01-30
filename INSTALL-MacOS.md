@@ -2,7 +2,6 @@
 
 > **NotaGen** 是一个 AI 音乐乐谱生成工具，可以生成巴洛克、古典、浪漫时期风格的乐谱，支持 60+ 位作曲家风格。
 
-**原项目：** [billwuhao/ComfyUI_NotaGen](https://github.com/billwuhao/ComfyUI_NotaGen)
 **模型来源：** [ElectricAlexis/NotaGen](https://github.com/ElectricAlexis/NotaGen)
 
 ---
@@ -44,7 +43,7 @@ uv pip install -r requirements.txt
 
 ```bash
 cd ~/Documents/ComfyUI/custom_nodes
-git clone https://github.com/billwuhao/ComfyUI_NotaGen.git
+git clone https://github.com/chaye7417/ComfyUI_NotaGen.git
 cd ComfyUI_NotaGen
 
 # 激活 ComfyUI 的虚拟环境
@@ -250,7 +249,7 @@ open ~/Documents/ComfyUI/output/notagen_interleaved/*.mp3
 
 ## 相关链接
 
-- **ComfyUI_NotaGen：** https://github.com/billwuhao/ComfyUI_NotaGen
+- **ComfyUI_NotaGen：** https://github.com/chaye7417/ComfyUI_NotaGen
 - **NotaGen 原始项目：** https://github.com/ElectricAlexis/NotaGen
 - **模型下载：** https://huggingface.co/ElectricAlexis/NotaGen
 - **MuseScore 4：** https://musescore.org/zh-hans/download
